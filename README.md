@@ -6,6 +6,9 @@ This repository contains the **Artificial Intelligence components** that support
 - **Recommendation System** – Helps client companies choose the most suitable transport providers.  
 - **Chatbot** – Provides FAQ assistance and guides users through the platform.  
 
+You can find the backend repository [here](https://github.com/Shutman-ZTAY/CargaLink-BackEnd/)
+You can find the frontend repository [here](https://github.com/H4d3rach/CargaLink-Frontend/)
+
 ![Chatbot view](chatbot.jpg)
 
 ---
