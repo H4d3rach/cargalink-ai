@@ -1,6 +1,6 @@
 # CargaLink CDMX - AI Services
 
-AI services for **CargaLink CDMX**, a web application developed as part of a **Bachelor’s Thesis at ESCOM (IPN)**.  
+AI services for **CargaLink CDMX**, a web application developed as part of a **Bachelor’s in Science Thesis at ESCOM (IPN)**.  
 This repository contains the **Artificial Intelligence components** that support the platform:  
 
 - **Recommendation System** – Helps client companies choose the most suitable transport providers.  
