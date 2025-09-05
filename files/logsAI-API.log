@@ -1,0 +1,495 @@
+2024-12-02 18:38:52,152 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-02 18:38:52,152 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 18:39:35,886 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-02 18:39:37,523 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-02 18:39:37,566 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 18:39:37,566 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 18:39:37,571 - werkzeug - INFO -  * Restarting with stat
+2024-12-02 18:39:47,039 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-02 18:39:47,039 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 18:39:52,010 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-02 18:39:53,545 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-02 18:39:53,569 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 18:39:53,572 - werkzeug - INFO -  * Debugger PIN: 130-901-901
+2024-12-02 18:49:04,862 - Chatbot - INFO - Similitud maxima ('0.9227096438407898') mayor al umbral, respuesta: 'No, actualmente CargaLink solo permite agregar informaci�n dentro de los campos predefinidos en el perfil empresarial. Sin embargo, los campos disponibles est�n dise�ados para cubrir la informaci�n esencial necesaria para las operaciones en la aplicacion.'
+2024-12-02 18:49:04,865 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 18:49:04] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 18:49:36,762 - Chatbot - INFO - Similitud maxima ('0.36756566166877747') menor a el umbral de 0.77
+2024-12-02 18:49:36,763 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 18:49:36] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 18:49:50,823 - Chatbot - INFO - Similitud maxima ('0.4894965887069702') menor a el umbral de 0.77
+2024-12-02 18:49:50,824 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 18:49:50] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:10:57,046 - Chatbot - INFO - Similitud maxima ('0.2783030867576599') menor a el umbral de 0.77
+2024-12-02 19:10:57,047 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:10:57] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:24:20,814 - Chatbot - INFO - Similitud maxima ('0.44980865716934204') menor a el umbral de 0.77
+2024-12-02 19:24:20,815 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:24:20] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:24:52,806 - Chatbot - INFO - Similitud maxima ('0.3479246199131012') menor a el umbral de 0.77
+2024-12-02 19:24:52,808 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:24:52] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:25:24,962 - Chatbot - INFO - Similitud maxima ('0.2907353937625885') menor a el umbral de 0.77
+2024-12-02 19:25:24,963 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:25:24] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:27:12,637 - Chatbot - INFO - Similitud maxima ('0.40154922008514404') menor a el umbral de 0.77
+2024-12-02 19:27:12,638 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:27:12] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:27:26,809 - Chatbot - INFO - Similitud maxima ('0.47215205430984497') menor a el umbral de 0.77
+2024-12-02 19:27:26,809 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:27:26] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:38:35,116 - Chatbot - INFO - Similitud maxima ('0.22028575837612152') menor a el umbral de 0.77
+2024-12-02 19:38:35,117 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:38:35] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:39:23,208 - Chatbot - INFO - Similitud maxima ('0.38916414976119995') menor a el umbral de 0.77
+2024-12-02 19:39:23,208 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:39:23] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:39:36,537 - Chatbot - INFO - Similitud maxima ('0.339411199092865') menor a el umbral de 0.77
+2024-12-02 19:39:36,538 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:39:36] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:40:03,273 - Chatbot - INFO - Similitud maxima ('0.5488928556442261') menor a el umbral de 0.77
+2024-12-02 19:40:03,274 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:40:03] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 19:40:26,002 - Chatbot - INFO - Similitud maxima ('0.9227096438407898') mayor al umbral, respuesta: 'No, actualmente CargaLink solo permite agregar informaci�n dentro de los campos predefinidos en el perfil empresarial. Sin embargo, los campos disponibles est�n dise�ados para cubrir la informaci�n esencial necesaria para las operaciones en la aplicacion.'
+2024-12-02 19:40:26,002 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 19:40:26] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 22:18:11,227 - Chatbot - INFO - Similitud maxima ('0.6907634735107422') menor a el umbral de 0.77
+2024-12-02 22:18:11,235 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 22:18:11] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 22:18:30,917 - Chatbot - INFO - Similitud maxima ('0.713585615158081') menor a el umbral de 0.77
+2024-12-02 22:18:30,918 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 22:18:30] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 22:18:45,185 - Chatbot - INFO - Similitud maxima ('0.6289063692092896') menor a el umbral de 0.77
+2024-12-02 22:18:45,185 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 22:18:45] "POST /chatbot HTTP/1.1" 200 -
+2024-12-02 22:28:31,732 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-02 22:28:31,732 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 22:28:36,813 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-02 22:28:38,235 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-02 22:28:38,249 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 22:28:38,249 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 22:28:38,257 - werkzeug - INFO -  * Restarting with stat
+2024-12-02 22:28:44,418 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-02 22:28:44,421 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-02 22:28:48,208 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-02 22:28:49,058 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-02 22:28:49,066 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 22:28:49,070 - werkzeug - INFO -  * Debugger PIN: 130-901-901
+2024-12-02 22:30:45,037 - Chatbot - INFO - Similitud maxima ('0.9227096438407898') mayor al umbral, respuesta: 'No, actualmente CargaLink solo permite agregar informaci�n dentro de los campos predefinidos en el perfil empresarial. Sin embargo, los campos disponibles est�n dise�ados para cubrir la informaci�n esencial necesaria para las operaciones en la aplicacion.'
+2024-12-02 22:30:45,037 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 22:30:45] "POST /chatbot HTTP/1.1" 200 -
+2024-12-10 21:34:05,953 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-10 21:34:05,953 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-10 21:34:09,964 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-10 21:34:15,646 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-10 21:34:15,691 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-10 21:34:15,691 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-10 21:34:15,696 - werkzeug - INFO -  * Restarting with stat
+2024-12-10 21:34:23,776 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-10 21:34:23,777 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-10 21:34:27,607 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-10 21:34:33,348 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-10 21:34:33,363 - werkzeug - WARNING -  * Debugger is active!
+2024-12-10 21:34:33,370 - werkzeug - INFO -  * Debugger PIN: 130-901-901
+2024-12-11 09:21:04,963 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-11 09:21:04,965 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-11 09:21:07,223 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-11 09:21:08,566 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-11 09:21:08,595 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 09:21:08,595 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 09:21:08,602 - werkzeug - INFO -  * Restarting with stat
+2024-12-11 09:21:15,261 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-11 09:21:15,261 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-11 09:21:16,965 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-11 09:21:17,877 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-11 09:21:17,887 - werkzeug - WARNING -  * Debugger is active!
+2024-12-11 09:21:17,899 - werkzeug - INFO -  * Debugger PIN: 130-901-901
+2024-12-13 01:48:00,186 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-13 01:48:00,186 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-13 01:48:04,136 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-13 01:48:05,252 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-13 01:48:05,259 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-13 01:48:05,259 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-13 01:48:05,260 - werkzeug - INFO -  * Restarting with stat
+2024-12-13 01:48:08,413 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-13 01:48:08,414 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-13 01:48:09,839 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-13 01:48:10,955 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-13 01:48:10,960 - werkzeug - WARNING -  * Debugger is active!
+2024-12-13 01:48:10,965 - werkzeug - INFO -  * Debugger PIN: 311-510-014
+2024-12-15 02:25:40,384 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-15 02:25:40,384 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-15 02:25:41,861 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-15 02:25:43,012 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-15 02:25:43,020 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 02:25:43,020 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 02:25:43,022 - werkzeug - INFO -  * Restarting with stat
+2024-12-15 02:25:46,404 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-15 02:25:46,404 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-15 02:25:47,945 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-15 02:25:49,165 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-15 02:25:49,170 - werkzeug - WARNING -  * Debugger is active!
+2024-12-15 02:25:49,173 - werkzeug - INFO -  * Debugger PIN: 128-511-194
+2024-12-15 02:26:31,494 - Chatbot - INFO - Similitud maxima ('0.48949646949768066') menor a el umbral de 0.77
+2024-12-15 02:26:31,496 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:26:31] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:26:40,399 - Chatbot - INFO - Similitud maxima ('0.49484992027282715') menor a el umbral de 0.77
+2024-12-15 02:26:40,399 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:26:40] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:26:53,580 - Chatbot - INFO - Similitud maxima ('0.7206421494483948') menor a el umbral de 0.77
+2024-12-15 02:26:53,580 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:26:53] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:27:08,920 - Chatbot - INFO - Similitud maxima ('0.8558330535888672') mayor al umbral, respuesta: 'La sede se asigna al registrar un nuevo transportista o editando la inofrmación del transportista.'
+2024-12-15 02:27:08,921 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:27:08] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:27:59,751 - Chatbot - INFO - Similitud maxima ('0.8230368494987488') mayor al umbral, respuesta: 'Desde el perfil de transportistas, desde el inicio hasta la finalización del viaje se pueden reportar problemas.'
+2024-12-15 02:27:59,751 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:27:59] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:28:17,361 - Chatbot - INFO - Similitud maxima ('0.8436477184295654') mayor al umbral, respuesta: 'La información requerida incluye: número de placa, marca, modelo, tipo de vehículo, (tipo de camión unitario en caso de que sea Camión Unitario), largo en metros, peso en kilos, número de ejes, número de llantas, sede asignada y su estatus actual.'
+2024-12-15 02:28:17,362 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:28:17] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:28:25,692 - Chatbot - INFO - Similitud maxima ('0.5751890540122986') menor a el umbral de 0.77
+2024-12-15 02:28:25,693 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:28:25] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:28:37,790 - Chatbot - INFO - Similitud maxima ('0.7015066742897034') menor a el umbral de 0.77
+2024-12-15 02:28:37,791 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:28:37] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:28:48,717 - Chatbot - INFO - Similitud maxima ('0.6659519672393799') menor a el umbral de 0.77
+2024-12-15 02:28:48,718 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:28:48] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:30:39,832 - Chatbot - INFO - Similitud maxima ('0.49486780166625977') menor a el umbral de 0.77
+2024-12-15 02:30:39,832 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:30:39] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:31:03,946 - Chatbot - INFO - Similitud maxima ('0.8283554911613464') mayor al umbral, respuesta: 'Para eliminar un vehículo, selecciona el botón rojo con el ícono de papelera en la columna de "Acciones" y la fila del vehículo.'
+2024-12-15 02:31:03,946 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:31:03] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:31:15,540 - Chatbot - INFO - Similitud maxima ('0.5280092358589172') menor a el umbral de 0.77
+2024-12-15 02:31:15,540 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:31:15] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:31:32,054 - Chatbot - INFO - Similitud maxima ('0.44654062390327454') menor a el umbral de 0.77
+2024-12-15 02:31:32,055 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:31:32] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:31:54,439 - Chatbot - INFO - Similitud maxima ('0.9555185437202454') mayor al umbral, respuesta: 'En la sección de Transportistas se visualizan los transportistas ya registrados, en la columna de "Acciones" se encuentran los botones para actualizar (botón azul) y eliminar (botón rojo). Dando clic en el botón azul de la fila del transportista que se quiera modificar, se le redirigirá al formulario de edición.'
+2024-12-15 02:31:54,439 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:31:54] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:32:07,182 - Chatbot - INFO - Similitud maxima ('0.7957345843315125') mayor al umbral, respuesta: 'Para asignar o cambiar la sede de un transportista, debes ingresar a la sección de Transportistas y en la columna de "Acciones" se encuentra el botón azul con ícono de lápiz donde se pueden editar los datos del transportista.'
+2024-12-15 02:32:07,182 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:32:07] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:32:29,176 - Chatbot - INFO - Similitud maxima ('0.6433566808700562') menor a el umbral de 0.77
+2024-12-15 02:32:29,177 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:32:29] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:32:52,278 - Chatbot - INFO - Similitud maxima ('0.727695107460022') menor a el umbral de 0.77
+2024-12-15 02:32:52,278 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:32:52] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:33:07,787 - Chatbot - INFO - Similitud maxima ('0.6352578401565552') menor a el umbral de 0.77
+2024-12-15 02:33:07,788 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:33:07] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:33:22,250 - Chatbot - INFO - Similitud maxima ('0.919806718826294') mayor al umbral, respuesta: 'En la sección de "Cargas disponibles" podrás observar las ofertas de trabajo y la información proporcionada por las empresas cliente.'
+2024-12-15 02:33:22,250 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:33:22] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:33:33,573 - Chatbot - INFO - Similitud maxima ('0.7878532409667969') mayor al umbral, respuesta: 'En la sección de "Cargas disponibles" podrás observar las ofertas de trabajo y la información proporcionada por las empresas cliente.'
+2024-12-15 02:33:33,573 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:33:33] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:33:45,171 - Chatbot - INFO - Similitud maxima ('0.9058904051780701') mayor al umbral, respuesta: 'En la sección de "Cargas disponibles" podrás observar las ofertas de trabajo y la información proporcionada por las empresas cliente.'
+2024-12-15 02:33:45,172 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:33:45] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:33:57,239 - Chatbot - INFO - Similitud maxima ('0.5073751211166382') menor a el umbral de 0.77
+2024-12-15 02:33:57,240 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:33:57] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:34:23,181 - Chatbot - INFO - Similitud maxima ('0.6518977284431458') menor a el umbral de 0.77
+2024-12-15 02:34:23,182 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:34:23] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:34:39,294 - Chatbot - INFO - Similitud maxima ('0.5393909811973572') menor a el umbral de 0.77
+2024-12-15 02:34:39,294 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:34:39] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:35:30,215 - Chatbot - INFO - Similitud maxima ('0.8115337491035461') mayor al umbral, respuesta: 'Si tiene una cuenta de representante de empresa, en el menú lateral izquierdo encontrará la opción "Trabajos actuales". Al seleccionarla, se desplegará una pagina para la gestión de trabajos.
+En las secciones "Viajes en curso" o "Viajes finalizados", podrá hacer clic en el botón "Detalles" de cualquier viaje. Esto abrirá una vista con la información del viaje, donde encontrará un botón denominado "Contrato". Al presionar este botón, el contrato se descargara para que lo pueda visualizar'
+2024-12-15 02:35:30,215 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:35:30] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:35:49,168 - Chatbot - INFO - Similitud maxima ('0.8145042061805725') mayor al umbral, respuesta: 'Si tiene una cuenta de representante de empresa, en el menú lateral izquierdo encontrará la opción "Trabajos actuales". Al seleccionarla, se desplegará una pagina para la gestión de trabajos.
+En las secciones "Viajes en curso" o "Viajes finalizados", podrá hacer clic en el botón "Detalles" de cualquier viaje. Esto abrirá una vista con la información del viaje, donde encontrará un botón denominado "Contrato". Al presionar este botón, el contrato se descargara para que lo pueda visualizar'
+2024-12-15 02:35:49,168 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:35:49] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:35:59,658 - Chatbot - INFO - Similitud maxima ('0.5300835371017456') menor a el umbral de 0.77
+2024-12-15 02:35:59,658 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:35:59] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:36:15,766 - Chatbot - INFO - Similitud maxima ('0.7891849279403687') mayor al umbral, respuesta: 'Desde el perfil de transportistas, desde el inicio hasta la finalización del viaje se pueden reportar problemas.'
+2024-12-15 02:36:15,766 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:36:15] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:36:38,702 - Chatbot - INFO - Similitud maxima ('0.43161866068840027') menor a el umbral de 0.77
+2024-12-15 02:36:38,703 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:36:38] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:36:53,622 - Chatbot - INFO - Similitud maxima ('0.731457531452179') menor a el umbral de 0.77
+2024-12-15 02:36:53,622 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:36:53] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:38:49,450 - Chatbot - INFO - Similitud maxima ('0.7277499437332153') menor a el umbral de 0.77
+2024-12-15 02:38:49,451 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:38:49] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:40:43,090 - Chatbot - INFO - Similitud maxima ('0.6600189208984375') menor a el umbral de 0.77
+2024-12-15 02:40:43,090 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:40:43] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:42:36,928 - Chatbot - INFO - Similitud maxima ('0.8602140545845032') mayor al umbral, respuesta: 'Algunos datos son cruciales dentro de nuestro sistema, la mayoría de estos suelen ser datos que no cambian.
+Sugerimos que antes de cualquier registro de datos verifique si estos son correctos.'
+2024-12-15 02:42:36,928 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:42:36] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:42:58,763 - Chatbot - INFO - Similitud maxima ('0.5827265381813049') menor a el umbral de 0.77
+2024-12-15 02:42:58,764 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:42:58] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:43:18,176 - Chatbot - INFO - Similitud maxima ('0.7776963114738464') mayor al umbral, respuesta: 'En la sección de "Chats" puedes visualizar las conversaciones con los transportistas y los clientes.'
+2024-12-15 02:43:18,177 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:43:18] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:43:28,619 - Chatbot - INFO - Similitud maxima ('0.6767332553863525') menor a el umbral de 0.77
+2024-12-15 02:43:28,619 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:43:28] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 02:43:40,590 - Chatbot - INFO - Similitud maxima ('0.884107768535614') mayor al umbral, respuesta: 'Lo único que se puede reportar es el servicio al finalizar el viaje.'
+2024-12-15 02:43:40,591 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 02:43:40] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 15:41:56,027 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-15 15:41:56,027 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-15 15:41:57,456 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-15 15:41:58,573 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-15 15:41:58,579 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 15:41:58,580 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 15:41:58,580 - werkzeug - INFO -  * Restarting with stat
+2024-12-15 15:42:01,771 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-15 15:42:01,771 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-15 15:42:03,196 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-15 15:42:04,346 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-15 15:42:04,352 - werkzeug - WARNING -  * Debugger is active!
+2024-12-15 15:42:04,354 - werkzeug - INFO -  * Debugger PIN: 681-119-049
+2024-12-15 20:27:37,001 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-15 20:27:37,001 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-15 20:27:38,438 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-15 20:27:39,600 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-15 20:27:39,607 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 20:27:39,608 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 20:27:39,609 - werkzeug - INFO -  * Restarting with stat
+2024-12-15 20:27:42,828 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-15 20:27:42,828 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-15 20:27:44,253 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-15 20:27:45,388 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-15 20:27:45,394 - werkzeug - WARNING -  * Debugger is active!
+2024-12-15 20:27:45,396 - werkzeug - INFO -  * Debugger PIN: 487-260-912
+2024-12-15 20:54:05,606 - Chatbot - INFO - Similitud maxima ('0.6954590678215027') menor a el umbral de 0.77
+2024-12-15 20:54:05,608 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 20:54:05] "POST /chatbot HTTP/1.1" 200 -
+2024-12-15 20:54:17,210 - Chatbot - INFO - Similitud maxima ('0.8690001964569092') mayor al umbral, respuesta: 'La sede se asigna al registrar un nuevo transportista o editando la inofrmación del transportista.'
+2024-12-15 20:54:17,211 - werkzeug - INFO - 127.0.0.1 - - [15/Dec/2024 20:54:17] "POST /chatbot HTTP/1.1" 200 -
+2024-12-16 04:53:59,690 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-16 04:53:59,691 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-16 04:54:01,036 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-16 04:54:02,150 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-16 04:54:02,156 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 04:54:02,156 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-16 04:54:02,157 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 04:54:05,400 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-16 04:54:05,400 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-16 04:54:06,768 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-16 04:54:07,894 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-16 04:54:07,899 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 04:54:07,902 - werkzeug - INFO -  * Debugger PIN: 394-568-523
+2024-12-16 05:00:35,550 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:00:35] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:00:35,551 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:00:35] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:01:58,796 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:01:58] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:01:58,818 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:01:58] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:02:34,248 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:02:34] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:02:56,310 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:02:56] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:02:56,332 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:02:56] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:03:01,271 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:03:01] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:03:10,861 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:03:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:03:10,872 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:03:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:03:13,289 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:03:13] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:03:22,523 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:03:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:06:04,476 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:06:04] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:20:55,704 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:20:55] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:43:13,568 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-16 05:43:13,568 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-16 05:43:14,945 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-16 05:43:16,100 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-16 05:43:16,107 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 05:43:16,107 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-16 05:43:16,107 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 05:43:19,342 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-16 05:43:19,342 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-16 05:43:22,587 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-16 05:43:23,799 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-16 05:43:23,804 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 05:43:23,806 - werkzeug - INFO -  * Debugger PIN: 394-568-523
+2024-12-16 05:48:25,409 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:48:25] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:48:37,724 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:48:37] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:48:40,496 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:48:40] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:49:09,244 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:49:09] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:49:09,298 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:49:09] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:49:24,116 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:49:24] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:49:41,128 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:49:41] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:08,959 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:08] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:10,150 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:10,180 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:11,586 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:11] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:14,460 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:14] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:14,484 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:14] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:21,072 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:21] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 05:50:21,095 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 05:50:21] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:09:09,615 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:09:09] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:09:09,705 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:09:09] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:09:46,893 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:09:46] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:09:46,934 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:09:46] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:09:48,747 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:09:48] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:10:34,927 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:10:34] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:10:41,364 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:10:41] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:11:30,032 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:11:30] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:00,635 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:00] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:00,726 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:00] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:03,199 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:03] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:15,788 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:15] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:15,825 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:15] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:15,939 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:15] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:18,756 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:18] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:47,927 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:47] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:48,001 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:48] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:49,780 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:49] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:20:56,754 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:20:56] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:21:01,057 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:21:01] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:21:20,037 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:21:20] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:21:25,472 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:21:25] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:21:46,830 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:21:46] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:23:22,923 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:23:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:23:22,946 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:23:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:23:25,183 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:23:25] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:23:47,817 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:23:47] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:24:14,509 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:24:14] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:45:18,458 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:45:18] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 06:47:03,164 - Chatbot - INFO - Similitud maxima ('0.8213348984718323') mayor al umbral, respuesta: 'Para registrar una sede, necesitas proporcionar: nombre de la sede y la dirección completa.'
+2024-12-16 06:47:03,164 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:47:03] "POST /chatbot HTTP/1.1" 200 -
+2024-12-16 06:47:38,596 - Chatbot - INFO - Similitud maxima ('0.48949646949768066') menor a el umbral de 0.77
+2024-12-16 06:47:38,596 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 06:47:38] "POST /chatbot HTTP/1.1" 200 -
+2024-12-16 07:22:51,075 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:22:51] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:22:51,102 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:22:51] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:22:52,642 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:22:52] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:22:55,674 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:22:55] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:22:55,710 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:22:55] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:23:19,951 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:23:19] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:23:30,962 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:23:30] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:23:39,776 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:23:39] "POST /reordenar HTTP/1.1" 200 -
+2024-12-16 07:23:48,397 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 07:23:48] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:00:24,660 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:00:24] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:00:24,702 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:00:24] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:01:20,828 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:01:20] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:01:20,864 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:01:20] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:01:30,998 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:01:30] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:01:31,048 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:01:31] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:01:48,103 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:01:48] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:02:22,967 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:02:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:02:28,225 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:02:28] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 00:02:56,008 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 00:02:56] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:30:48,558 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:30:48] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:30:48,645 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:30:48] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:27,992 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:28,121 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:28] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:39,145 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:39] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:39,286 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:39] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:50,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:50] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:50,873 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:50] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:47:55,667 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:47:55] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:48:38,443 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:48:38] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:49:01,403 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:49:01] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:49:25,779 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:49:25] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 02:50:53,064 - Chatbot - INFO - Similitud maxima ('0.6864066123962402') menor a el umbral de 0.77
+2024-12-17 02:50:53,065 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:50:53] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 02:51:36,481 - Chatbot - INFO - Similitud maxima ('0.9706600904464722') mayor al umbral, respuesta: 'Desde el perfil de transportistas, desde el inicio hasta la finalización del viaje se pueden reportar problemas.'
+2024-12-17 02:51:36,481 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 02:51:36] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 03:39:51,759 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-17 03:39:51,759 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-17 03:39:53,140 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-17 03:39:54,284 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-17 03:39:54,291 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 03:39:54,291 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 03:39:54,291 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 03:39:57,502 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-17 03:39:57,502 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-17 03:39:58,867 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-17 03:39:59,972 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-17 03:39:59,977 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 03:39:59,979 - werkzeug - INFO -  * Debugger PIN: 978-474-853
+2024-12-17 03:55:51,796 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 03:55:51] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 03:55:51,797 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 03:55:51] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 04:39:33,680 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:39:33] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 04:40:38,472 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:40:38] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 04:41:54,861 - Chatbot - INFO - Similitud maxima ('0.37566280364990234') menor a el umbral de 0.77
+2024-12-17 04:41:54,861 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:41:54] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 04:43:10,462 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:43:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 04:43:26,962 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:43:26] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 04:43:33,870 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:43:33] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 04:43:45,558 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 04:43:45] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 05:48:21,378 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-17 05:48:21,378 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-17 05:48:22,834 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-17 05:48:24,100 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-17 05:48:24,106 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 05:48:24,106 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 05:48:24,107 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 05:48:27,283 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-12-17 05:48:27,283 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2024-12-17 05:48:28,659 - Chatbot - INFO - El modelo del chatbot fue cargado
+2024-12-17 05:48:29,901 - Chatbot - INFO - Los embeddings fueron extraidos
+2024-12-17 05:48:29,906 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 05:48:29,908 - werkzeug - INFO -  * Debugger PIN: 978-474-853
+2024-12-17 05:51:20,187 - Chatbot - INFO - Similitud maxima ('0.8608633279800415') mayor al umbral, respuesta: 'Debes ingresar a la sección de Sedes, localizar la sede que desea modificar y dar clic en el botón azul con ícono de lápiz que esté en el mismo renglón.'
+2024-12-17 05:51:20,188 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 05:51:20] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 05:51:31,957 - Chatbot - INFO - Similitud maxima ('0.829646110534668') mayor al umbral, respuesta: 'Para asignar o cambiar la sede de un transportista, debes ingresar a la sección de Transportistas y en la columna de "Acciones" se encuentra el botón azul con ícono de lápiz donde se pueden editar los datos del transportista.'
+2024-12-17 05:51:31,958 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 05:51:31] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 05:51:43,248 - Chatbot - INFO - Similitud maxima ('0.9447683095932007') mayor al umbral, respuesta: 'En la sección de Chat del perfil de Representante de Transporte debe aparecer una lista de usuarios a los que puedes contactar, al inicio deben aparecer los transportistas que hayas registrado y después los clientes con los que hayas hablado..'
+2024-12-17 05:51:43,249 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 05:51:43] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 06:15:43,975 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:15:43] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:17:02,281 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:17:02] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:17:16,404 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:17:16] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:23:10,436 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:23:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:23:53,332 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:23:53] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:08,628 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:08] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:16,154 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:16] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:18,594 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:18] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:20,019 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:20] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:21,540 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:21] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:22,705 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:29,223 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:29] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:37,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:37] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:39,491 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:39] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:24:50,711 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:24:50] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:26:51,801 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:26:51] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:35:36,527 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:35:36] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:35:50,036 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:35:50] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:36:07,886 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:36:07] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:36:14,681 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:36:14] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:41:18,811 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:41:18] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:41:19,057 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:41:19] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:43:42,810 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:43:42] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:43:43,059 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:43:43] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:53:50,033 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:53:50] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:53:50,273 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:53:50] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:53:51,930 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:53:51] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:55:27,033 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:55:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:55:27,275 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:55:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:55:28,966 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:55:28] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:55:44,667 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:55:44] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:55:44,907 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:55:44] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:56:31,974 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:56:31] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:57:10,222 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:57:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:57:10,456 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:57:10] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:57:16,227 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:57:16] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:58:13,792 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:58:13] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:58:18,080 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:58:18] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:58:22,499 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:58:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:58:34,711 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:58:34] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:58:47,005 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:58:47] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:59:00,713 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:59:00] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 06:59:14,283 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 06:59:14] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:24:34,291 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:24:34] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:24:34,323 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:24:34] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:25:20,755 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:25:20] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:25:27,215 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:25:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:25:27,250 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:25:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:25:33,341 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:25:33] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:26:17,102 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:26:17] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:26:17,129 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:26:17] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:26:19,404 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:26:19] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:26:22,278 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:26:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:26:22,318 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:26:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:26:22,319 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:26:22] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:31:12,300 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:31:12] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:31:12,313 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:31:12] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:31:12,314 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:31:12] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:31:17,914 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:31:17] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:31:17,927 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:31:17] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:31:17,928 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:31:17] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:32:44,560 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:32:44] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:32:44,591 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:32:44] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:32:44,595 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:32:44] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 07:35:31,424 - Chatbot - INFO - Similitud maxima ('0.8062784075737') mayor al umbral, respuesta: 'Sí, la información de un semirremolque puede ser editada desde Gestión de Semirremolque, dando clic al botón "Editar" de color azul con un ícono de lápiz en la fila del semirremolque que se desea modificar.'
+2024-12-17 07:35:31,425 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:35:31] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 07:36:12,333 - Chatbot - INFO - Similitud maxima ('0.5425279140472412') menor a el umbral de 0.77
+2024-12-17 07:36:12,334 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 07:36:12] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 16:57:12,686 - Chatbot - INFO - Similitud maxima ('0.8558330535888672') mayor al umbral, respuesta: 'La sede se asigna al registrar un nuevo transportista o editando la información del transportista.'
+2024-12-17 16:57:12,686 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 16:57:12] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 16:57:32,004 - Chatbot - INFO - Similitud maxima ('0.5425279140472412') menor a el umbral de 0.77
+2024-12-17 16:57:32,004 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 16:57:32] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 18:20:00,187 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:20:00] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:20:00,200 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:20:00] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:20:00,414 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:20:00] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:21:36,241 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:21:36] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:03,040 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:03] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:06,678 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:06] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:06,703 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:06] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:06,915 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:06] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:09,305 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:09] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:29,359 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:29] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:29,371 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:29] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:29,557 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:29] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:32,532 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:32] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:36,995 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:36] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:37,019 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:37] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:37,139 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:37] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:22:37,248 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:22:37] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:27:27,418 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:27:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:27:27,556 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:27:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:27:27,558 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:27:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:27:27,564 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:27:27] "POST /reordenar HTTP/1.1" 200 -
+2024-12-17 18:28:23,994 - Chatbot - INFO - Similitud maxima ('0.7913758158683777') mayor al umbral, respuesta: 'En la sección de Sedes se pueden añadir nuevas ubicaciones. Para registrar una sede, necesitas proporcionar: nombre de la sede y la dirección completa.'
+2024-12-17 18:28:23,995 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:28:23] "POST /chatbot HTTP/1.1" 200 -
+2024-12-17 18:29:02,487 - Chatbot - INFO - Similitud maxima ('0.5573282241821289') menor a el umbral de 0.77
+2024-12-17 18:29:02,487 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 18:29:02] "POST /chatbot HTTP/1.1" 200 -
